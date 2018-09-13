@@ -17,8 +17,9 @@ newsgroup:文本来源的语料
 models/colors_new.cp:从III-5K数据集学习到的色彩模型
 fonts：包含合成时所需字体
 所需图片bg_img来源于VGG组合成synth_80k时所用的图片集
-- bg_img.tar.gz [8.9G]：压缩的图像文件（需要使用使用imnames.cp中的过滤），链接[http://zeus.robots.ox.ac.uk/textspot/static/db/ bg_img.tar.gz](http://zeus.robots.ox.ac.uk/textspot/static/db/ bg_img.tar.gz "http://zeus.robots.ox.ac.uk/textspot/static/db/ bg_img.tar.gz")：
+- bg_img.tar.gz [8.9G]：压缩的图像文件（需要使用使用imnames.cp中的过滤），链接[http://zeus.robots.ox.ac.uk/textspot/static/db/bg_img.tar.gz](http://zeus.robots.ox.ac.uk/textspot/static/db/bg_img.tar.gz "http://zeus.robots.ox.ac.uk/textspot/static/db/bg_img.tar.gz")
 - imnames.cp[180K]：已过滤文件的名称，即，这些文件不包含文本,链接：[http://zeus.robots.ox.ac.uk/textspot/static/db/imnames.cp](http://zeus.robots.ox.ac.uk/textspot/static/db/imnames.cp "http://zeus.robots.ox.ac.uk/textspot/static/db/imnames.cp")
+
 
 ## 一些实现结果样例
 
