@@ -233,6 +233,7 @@ def get_vertical_text_picture(image_file,color_lib,char_lines,fonts,font_sizes):
     crop_img = crop_img.transpose(Image.ROTATE_270)
     return crop_img,chars
 
+
 if __name__ == '__main__':
     # 读入字体色彩库
     color_lib = FontColor('./models/colors_new.cp')
